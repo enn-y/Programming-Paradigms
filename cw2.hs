@@ -1,7 +1,7 @@
 import Data.Text.Internal.Fusion.Common (replicateCharI)
 import Data.Char (digitToInt)
--- Muhammad Fadil Amin Bin Arsani 
--- 20515959
+-- Lua Chong En
+-- 20417309
 
 
 -- 1
